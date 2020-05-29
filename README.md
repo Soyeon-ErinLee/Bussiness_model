@@ -1,1 +1,1 @@
-# Bussiness_model
+# Business_model
