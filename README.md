@@ -11,3 +11,7 @@
 **2020 Machine Learning Project**
 
   - Use of Machine Learning Models for an Imbalanced Data Imputed with SMOTE and ADASYN
+
+**2020 Sentimental Analysis Project**
+
+  - Use of Machine Learning Models for Sentimental Analysis (Logistic Regression, Support Decision Tree, SVM, and Random Forest)
