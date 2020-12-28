@@ -15,3 +15,8 @@
 **2020 Sentimental Analysis Project**
 
   - Use of Machine Learning Models for Sentimental Analysis (Logistic Regression, Support Decision Tree, SVM, and Random Forest)
+
+
+--To be updated--
+  - 2020 Missing Data Imputation Analysis
+  - 2020 Bayesian Logistic Regression Analysis
