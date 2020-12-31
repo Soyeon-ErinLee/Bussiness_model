@@ -11,6 +11,10 @@
 **2020 Machine Learning Project**
 
   - Use of Machine Learning Models for an Imbalanced Data Imputed with SMOTE and ADASYN
+  
+**2020 Missing Data Analysis**
+
+  - Comparison of MCMC and Non-MCMC Multiple Imputation Algorithms by Monte Carlo Simulation, Focused on the Effect of Between-Imputation Iteration
 
 **2020 Sentimental Analysis Project**
 
@@ -18,5 +22,4 @@
 
 
 --To be updated--
-  - 2020 Missing Data Imputation Analysis
   - 2020 Bayesian Logistic Regression Analysis
