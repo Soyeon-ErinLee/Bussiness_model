@@ -23,4 +23,4 @@
 
 --To be updated--
   - 2020 Bayesian Logistic Regression Analysis
-  - 2021 KPMG Ideation Challenge
+
