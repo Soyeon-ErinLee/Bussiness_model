@@ -1,3 +1,48 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{agresti2018introduction}
+Alan Agresti.
+\newblock {\em An introduction to categorical data analysis}.
+\newblock John Wiley \& Sons, 2018.
+
+\bibitem{breslow1993approximate}
+Norman~E Breslow and David~G Clayton.
+\newblock Approximate inference in generalized linear mixed models.
+\newblock {\em Journal of the American statistical Association}, 88(421):9--25,
+  1993.
+
+\bibitem{diggle2002analysis}
+Peter Diggle, Peter~J Diggle, Patrick Heagerty, Kung-Yee Liang, Patrick~J
+  Heagerty, Scott Zeger, et~al.
+\newblock {\em Analysis of longitudinal data}.
+\newblock Oxford University Press, 2002.
+
+\bibitem{islam2017analysis}
+M~Ataharul Islam and Rafiqul~I Chowdhury.
+\newblock {\em Analysis of repeated measures data}.
+\newblock Springer, 2017.
+
+\bibitem{jiang2007linear}
+Jiming Jiang.
+\newblock {\em Linear and generalized linear mixed models and their
+  applications}.
+\newblock Springer Science \& Business Media, 2007.
+
+\bibitem{knudson2021likelihood}
+Christina Knudson, Sydney Benson, Charles Geyer, and Galin Jones.
+\newblock Likelihood-based inference for generalized linear mixed models:
+  Inference with the r package glmm.
+\newblock {\em Stat}, 10(1):e339, 2021.
+
+\bibitem{sugasawa2020small}
+Shonosuke Sugasawa and Tatsuya Kubokawa.
+\newblock Small area estimation with mixed models: a review.
+\newblock {\em Japanese Journal of Statistics and Data Science}, 3(2):693--720,
+  2020.
+
+\bibitem{kim2020longitudinal}
+김양진.
+\newblock {\em R과 SAS를 이용한 경시적 자료분석}.
+\newblock 자유아카데미, 2020.
 
 \end{thebibliography}
