@@ -20,6 +20,9 @@
 
   - Use of Machine Learning Models for Sentimental Analysis (Logistic Regression, Support Decision Tree, SVM, and Random Forest)
 
+**2021 Imbalanced Text Classification with Transfer Learningt**
+
+  - Use of Transfer Learning Models for Imbalanced Text Classification (Glove, Faker, ULMFiT)
 
 --To be updated--
   - 2020 Bayesian Logistic Regression Analysis
